@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tobalan" name="TobAlan Repository" version="2.0.1" provider-name="tobalan">
+<addon id="repository.jio-tv" name="Jio TV Repository" version="2.2.1" provider-name="harish">
     <extension point="xbmc.addon.repository" name="TobAlan Repository">
         <dir minversion="19.0">
-            <info compressed="false">https://tobalan.github.io/addons.xml</info>
-            <checksum>https://tobalan.github.io/addons.xml.md5</checksum>
-            <datadir zip="true">https://tobalan.github.io/Zips</datadir>
+            <info compressed="false">https://tobalan-jio-github-io.vercel.app/addons.xml</info>
+            <checksum>https://tobalan-jio-github-io.vercel.app/addons.xml.md5</checksum>
+            <datadir zip="true">https://tobalan-jio-github-io.vercel.app/Zips</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>TobAlan Repository for Kodi</summary>
+        <summary>TV Repository for Kodi</summary>
         <description>A Repository for Streaming Add-ons of Indian OTT Providers</description>
         <platform>all</platform>
         <assets>
